@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harshkumarsah2005
 - 👀 I’m interested in learning new things and technologies.
-- 🌱 I’m currently learning C++, web development and more.
-- 📫 contact me on email hk031848@gmail.com
+- 🌱 Hands-on in Python programming language, learning basics of C-language.
+- 📫 contact me by email hk031848@gmail.com
 - 😄 Pronouns: He/him
 
 <!---
